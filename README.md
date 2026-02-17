@@ -1,5 +1,5 @@
 # MobileHackingLabs
-[Mobile Hacking Lab challenges](https://www.mobilehackinglab.com/free-mobile-hacking-labs)
+Mobile Hacking Lab offers a range of [challenges](https://www.mobilehackinglab.com/free-mobile-hacking-labs) on virtual Android and IOS devices. Each completed lab earns you a Certificate of Completion, marking your achievement in practical expertise.
 
 Strings | Cyclic Scanner | IOT Connect
 -- | -- | --
