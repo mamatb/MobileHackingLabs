@@ -9,8 +9,8 @@ Java.perform(function() {
   const Uri = Java.use("android.net.Uri");
 
   Java.choose("com.mobilehackinglab.challenge.MainActivity", {
-    onMatch: function(instance) {
-      instance.KLOW();
+    onMatch: function(activity) {
+      activity.KLOW();
       console.log("[+] shared preferences set");
     },
     onComplete: function() {},
@@ -26,7 +26,7 @@ Java.perform(function() {
   let intent = Intent.$new();
   intent.setClassName("com.mobilehackinglab.challenge", "com.mobilehackinglab.challenge.Activity2");
   intent.setAction("android.intent.action.VIEW");
-  intent.setData(Uri.parse("mhl://labs/" + path));
+  intent.setData(Uri.parse(`mhl://labs/${path}`));
   intent.addFlags(0x10000000);
   console.log("[+] intent created");
 
