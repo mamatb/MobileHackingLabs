@@ -26,7 +26,7 @@ Java.perform(function() {
         console.log(`[+] pin bruteforced: ${pin}`);
         break;
       }
-    } catch (e) {}
+    } catch {}
   }
 
   if (intent.hasExtra("key")) {
