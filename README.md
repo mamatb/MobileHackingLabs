@@ -1,5 +1,5 @@
 # MobileHackingLabs
-Mobile Hacking Lab offers a range of [challenges](https://www.mobilehackinglab.com/free-mobile-hacking-labs) on virtual Android and IOS devices.
+Mobile Hacking Lab offers a range of [challenges](https://academy.mobilehackinglab.com/free-mobile-hacking-labs) on virtual Android and IOS devices.
 
 |||||
 :--: | :--: | :--: | :--:
