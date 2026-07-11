@@ -46,7 +46,7 @@ Java.perform(function() {
       },
       onComplete: function() {},
     });
-  }, 2000);
+  }, 2_000);
 
 });
 
