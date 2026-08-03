@@ -41,8 +41,7 @@ Java.perform(function() {
     }
     Memory.scan(module.base, module.size, patternHex.join(" "), {
       onMatch: function(address, size) {
-        console.log("[+] flag found");
-        console.log(hexdump(address, {length: 0x20}));
+        console.log(`[+] flag found: ${address.readUtf8String()}`);
       },
       onComplete: function() {},
     });
