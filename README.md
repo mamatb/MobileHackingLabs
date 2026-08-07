@@ -1,12 +1,41 @@
 # MobileHackingLabs
 [Android Mobile Hacking Lab challenges](https://www.mobilehackinglab.com/hacking-labs)
 
-|||||
-:--: | :--: | :--: | :--:
-[Strings](https://academy.mobilehackinglab.com/course/lab-strings) | [Cyclic Scanner](https://academy.mobilehackinglab.com/course/lab-cyclic-scanner) | [IOT Connect](https://academy.mobilehackinglab.com/course/lab-iot-connect) | [Guess Me](https://academy.mobilehackinglab.com/course/lab-guess-me)
-![Strings](img/com.mobilehackinglab.strings.jpg) | ![Cyclic Scanner](img/com.mobilehackinglab.cyclicscanner.jpg) | ![IOT Connect](img/com.mobilehackinglab.iotconnect.jpg) | ![Guess Me](img/com.mobilehackinglab.guessme.jpg)
-[TokenBleed](https://academy.mobilehackinglab.com/course/lab-tokenbleed) | [Post Board](https://academy.mobilehackinglab.com/course/lab-postboard) | [Secure Notes](https://academy.mobilehackinglab.com/course/lab-secure-notes) | [Food Store](https://academy.mobilehackinglab.com/course/lab-food-store)
-![TokenBleed](img/com.mobilehackinglab.exchange.jpg) | ![Post Board](img/com.mobilehackinglab.postboard.jpg) | ![Secure Notes](img/com.mobilehackinglab.securenotes.jpg) | ![Food Store](img/com.mobilehackinglab.foodstore.jpg)
-[Document Viewer](https://academy.mobilehackinglab.com/course/lab-document-viewer-rce) | [Config Editor](https://academy.mobilehackinglab.com/course/lab-config-editor-rce)
-![Document Viewer](img/com.mobilehackinglab.documentviewer.jpg) | ![Config Editor](img/com.mobilehackinglab.configeditor.jpg)
-
+<table>
+    <tr>
+        <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-strings">Strings</a></th>
+        <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-cyclic-scanner">Cyclic Scanner</a></th>
+        <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-iot-connect">IOT Connect</a></th>
+        <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-guess-me">Guess Me</a></th>
+    </tr>
+    <tr>
+        <td width="25%"><img src="img/com.mobilehackinglab.strings.jpg"></td>
+        <td width="25%"><img src="img/com.mobilehackinglab.cyclicscanner.jpg"></td>
+        <td width="25%"><img src="img/com.mobilehackinglab.iotconnect.jpg"></td>
+        <td width="25%"><img src="img/com.mobilehackinglab.guessme.jpg"></td>
+    </tr>
+    <tr>
+        <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-tokenbleed">TokenBleed</a></th>
+        <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-postboard">Post Board</a></th>
+        <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-secure-notes">Secure Notes</a></th>
+        <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-food-store">Food Store</a></th>
+    </tr>
+    <tr>
+        <td width="25%"><img src="img/com.mobilehackinglab.exchange.jpg"></td>
+        <td width="25%"><img src="img/com.mobilehackinglab.postboard.jpg"></td>
+        <td width="25%"><img src="img/com.mobilehackinglab.securenotes.jpg"></td>
+        <td width="25%"><img src="img/com.mobilehackinglab.foodstore.jpg"></td>
+    </tr>
+    <tr>
+        <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-document-viewer-rce">Document Viewer</a></th>
+        <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-config-editor-rce">Config Editor</a></th>
+        <th align="center"></th>
+        <th align="center"></th>
+    </tr>
+    <tr>
+        <td width="25%"><img src="img/com.mobilehackinglab.documentviewer.jpg"></td>
+        <td width="25%"><img src="img/com.mobilehackinglab.configeditor.jpg"></td>
+        <td width="25%"></td>
+        <td width="25%"></td>
+    </tr>
+</table>
