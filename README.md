@@ -30,13 +30,13 @@
         <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-document-viewer-rce">Document Viewer</a></th>
         <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-config-editor-rce">Config Editor</a></th>
         <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-tidelock-ctf">Tide Lock</a></th>
-        <th align="center"></th>
+        <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-parse-pwn-ctf">Parse & Pwn</a></th>
     </tr>
     <tr>
         <td width="25%"><img src="img/com.mobilehackinglab.documentviewer.jpg"></td>
         <td width="25%"><img src="img/com.mobilehackinglab.configeditor.jpg"></td>
         <td width="25%"><img src="img/com.mobilehackinglab.yay.tidelock.jpg"></td>
-        <td width="25%"></td>
+        <td width="25%"><img src="img/com.mobilehackinglab.markdownpreviewer.jpg"></td>
     </tr>
 </table>
 
