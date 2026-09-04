@@ -38,5 +38,17 @@
         <td width="25%"><img src="img/com.mobilehackinglab.yay.tidelock.jpg"></td>
         <td width="25%"><img src="img/com.mobilehackinglab.markdownpreviewer.jpg"></td>
     </tr>
+    <tr>
+        <th align="center"><a href="https://academy.mobilehackinglab.com/course/lab-nexmart-mhc">NexMart</a></th>
+        <th align="center"></th>
+        <th align="center"></th>
+        <th align="center"></th>
+    </tr>
+    <tr>
+        <td width="25%"><img src="img/com.nexmart.shop.jpg"></td>
+        <td width="25%"></td>
+        <td width="25%"></td>
+        <td width="25%"></td>
+    </tr>
 </table>
 
